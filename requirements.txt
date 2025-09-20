@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+smtplib
+email
+python-dotenv
+twilio
